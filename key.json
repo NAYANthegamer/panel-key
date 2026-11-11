@@ -1,9 +1,0 @@
-{
-  "keys": [
-    { "key": "Martin", "expires": "2030-12-31", "plan": "owner",   "note": "chef" },
-    { "key": "Luv",    "expires": "2030-12-31", "plan": "premium", "note": "" },
-    { "key": "Noty",   "expires": "2030-12-31", "plan": "premium", "note": "" }
-  ],
-  "fallback": "m",
-  "revoked": []
-}
