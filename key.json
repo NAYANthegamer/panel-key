@@ -1,0 +1,13 @@
+{
+  "keys": [
+    { "key": "Nayan", "expires": "2030-12-31", "plan": "owner",   "note": "chef" },
+    { "key": "Luv",    "expires": "2026-11-15", "plan": "premium", "note": "" },
+    { "key": "Spartan",    "expires": "2026-11-15", "plan": "premium", "note": "" },
+    { "key": "Nitin",    "expires": "2027-11-15", "plan": "premium", "note": "" },    
+    { "key": "L",    "expires": "2026-11-15", "plan": "premium", "note": "" },
+    { "key": "Nikita",    "expires": "2036-11-15", "plan": "premium", "note": "" },
+    { "key": "Noty",   "expires": "2026-11-15", "plan": "premium", "note": "" }
+  ],
+  "fallback": "m",
+  "revoked": []
+}
